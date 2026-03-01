@@ -1,5 +1,1 @@
 # BankingApp
-
-## Editor
-
-Cedrick Sebineza
